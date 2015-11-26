@@ -1,4 +1,4 @@
-package hw_primefactor;
+package primefactor;
 
 import java.util.Scanner; // Thitipong Ngansathin SE 5630213018
 
@@ -6,11 +6,11 @@ import java.util.Scanner; // Thitipong Ngansathin SE 5630213018
  *
  * @author Kyo
  */
-public class HW_PrimeFactor {
+public class PrimeFactor {
 
     public static void main(String[] args) {
 
-        int inputnumber, primenumber;
+        int inputnumber;
         Scanner in = new Scanner(System.in);
 
         System.out.println("You want Exit ,Please Enter 0 \n");
